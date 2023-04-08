@@ -61,7 +61,7 @@ const sumArrow = (a,b) => {
 
 //implicit written
 
-let sum = (a, b) => a + b
+// let sum = (a, b) => a + b
 
 //Arrays
 const arrays = ['kiran', 'dev']
@@ -212,3 +212,13 @@ const wordFrequency = (phrase) => {
 // let names = result.map(actor => actor.name).join(', ')
 
 //reduce - amazing use case for summing
+
+// const numberss = [1, 2, 3]
+
+// const result2 = numberss.reduce((prev, curr) => prev + curr)
+
+// const result3 = numberss.reduce(sumArrow)
+
+// console.log(result2)
+// console.log(result3)
+
